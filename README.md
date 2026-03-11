@@ -1,15 +1,13 @@
-### Hi there 👋
+## Hi, I'm Jacob Fisher 👋
 
-<!--
-**jbfish00/jbfish00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MA Linguistics candidate at Brigham Young University (graduating April 2026), with a focus on computational linguistics, NLP, and machine learning. I enjoy working at the intersection of language and data — whether that means fine-tuning translation models for low-resource languages or building statistical pipelines in R and Python.
 
-Here are some ideas to get you started:
+**Skills & tools I work with:**
+- 🐍 **Python & R** — data wrangling, statistical modeling, scripting
+- 🤖 **NLP & ML** — Hugging Face Transformers, PyTorch, scikit-learn, sequence modeling
+- 📊 **Statistical Modeling** — regression (OLS, GLMs, mixed models), model selection, hypothesis testing
+- 🔢 **Data Analysis** — pandas, tidyverse, visualization, experimental design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on an NLP related project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+**Current work:** My thesis investigates low-resource machine translation for **Georgian** (ქართული), comparing fine-tuned NLLB-200 and curriculum-pretrained LLaMA 3.2 models evaluated with XCOMET.
+
+I'm actively looking for roles in **Data Science, Data Engineering, or AI/ML Engineering** where I can apply my background in language, modeling, and software to real-world problems.
