@@ -10,4 +10,5 @@ MA Linguistics candidate at Brigham Young University (graduating April 2026), wi
 
 **Current work:** My thesis investigates low-resource machine translation for **Georgian** (ქართული), comparing fine-tuned NLLB-200 and curriculum-pretrained LLaMA 3.2 models evaluated with XCOMET.
 
-I'm actively looking for roles in **Data Science, Data Engineering, or AI/ML Engineering** where I can apply my background in language, modeling, and software to real-world problems.
+I'm actively looking for roles in **Data Science, Data Engineering, Data Analysis, Business Analysis, or AI/ML Engineering** where I can apply my background in language, modeling, and software to real-world problems.
+
